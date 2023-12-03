@@ -1,6 +1,6 @@
 namespace Domain.Entities
 {
-    public class Acitivity
+    public class Activity
     {
         public Guid Id { get; set; }
         public string Title { get; set; }

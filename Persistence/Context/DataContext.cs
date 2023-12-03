@@ -9,6 +9,6 @@ namespace Persistence.Context
 
         }
 
-        public DbSet<Acitivity> Activities {get; set;}
+        public DbSet<Activity> Activities {get; set;}
     }
 }
